@@ -2,8 +2,8 @@
 class.MyWorld.superclass=greenfoot.World
 editor.fx.0.height=739
 editor.fx.0.width=816
-editor.fx.0.x=392
-editor.fx.0.y=40
+editor.fx.0.x=432
+editor.fx.0.y=90
 mainWindow.height=600
 mainWindow.width=850
 mainWindow.x=40
